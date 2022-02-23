@@ -17,7 +17,7 @@ I identified columns without information, corrected texts and obtained data from
 
 ##  💻 Aggregation and Analysis:
 
-With a cleaned dataset, I started grouping some information in order to find the best dataframe configuration to answer my question. Founded the conclusion that months in summer have more shark attack in USA and AUSTRALIA, I also concluded that people who most suffer these attacks are man who practice surfing with approximately 30 years. 
+With a cleaned dataset, I started grouping some information in order to find the best dataframe configuration to answer my question. Got the conclusion that months in summer have more shark attack in USA and AUSTRALIA, I also concluded that people who most suffer these attacks are man who practice surfing with approximately 30 years. 
 
 Considering the very limited time to perform analysis on this dataset and the analysis techniques that I know at the moment, with some effort I could obtain my results. 
 
