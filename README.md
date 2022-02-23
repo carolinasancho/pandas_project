@@ -1,4 +1,4 @@
-# Shark attacks: a pandas project
+# Shark attack: a pandas project
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 In this exercise we worked with a Global Shark Attack File dataset as found in the Kaggle webpage.
