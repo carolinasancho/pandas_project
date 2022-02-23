@@ -5,7 +5,7 @@
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-In this exercise we worked with a Global Shark Attack File dataset as found in the Kaggle webpage. The job was applying different cleaning and manipulation techniques in this dataset, with significantly messy data. This will allow us to perform an analysis of the shark attack. With the cleaned dataset, the objective is to answer a 'business question': something we wanted to know about shark attacks and try to answer that using data.This focused
+In this exercise we worked with a Global Shark Attack File dataset found in the Kaggle webpage. The job was applying different cleaning and manipulation techniques in this dataset, with significantly messy data. This will allow us to perform an analysis of the shark attack. With the cleaned dataset, the objective is to answer a 'business question': something we wanted to know about shark attacks and try to answer that using data.This focused
 our cleaning and data manipulation through the process.
 
 In my job I tryed to figure out the months with more shark attacks in each country and activity, also including sex and age.
