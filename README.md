@@ -1,4 +1,4 @@
-<img src="https://bit.ly/2VnXWr2" width="60">
+<h1 align="center"><img src="https://bit.ly/2VnXWr2" width="60">
 
 <h1 align="center">Shark attack: a pandas project</h1>
 
