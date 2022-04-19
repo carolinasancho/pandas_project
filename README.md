@@ -1,3 +1,5 @@
+<img src="https://bit.ly/2VnXWr2" width="60">
+
 <h1 align="center">Shark attack: a pandas project</h1>
 
 <p align="center"> Second Python Project in Ironhack Bootcamp :star: :star:
